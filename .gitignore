@@ -1,0 +1,34 @@
+# Data files
+data/
+*.csv
+*.xlsx
+*.json
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
+
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Environment/config files
+.env
+*.env
+config.yaml
+
+# Others
+*.log
+*.bak
